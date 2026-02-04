@@ -51,3 +51,13 @@ Embeddings Generation (bge-m3)
 Vector Search (Cosine Similarity)
    ↓
 LLM Answer (Grounded RAG Response)
+
+## Architecture / Flow
+
+```mermaid
+graph TD
+    A[Video Files] --> B[Speech-to-Text<br/>Whisper]
+    B --> C[Subtitle Chunking]
+    C --> D[Embeddings<br/>bge-m3]
+    D --> E[Vector Search<br/>Cosine Similarity]
+    E --> F[LLM Answer<br/>Grounded RAG Response]

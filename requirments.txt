@@ -1,0 +1,7 @@
+whisper
+torch
+pandas
+numpy
+scikit-learn
+requests
+joblib

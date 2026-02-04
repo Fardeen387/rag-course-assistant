@@ -1,0 +1,11 @@
+I'd be happy to help you with your Sigma web development course.
+
+So, I understand you're asking about Exercide 1? That's a popular coding challenge in the context of web development. Based on my knowledge, Exercice 1 is often used to introduce concepts related to HTML and CSS.
+
+Exercice 1 typically involves creating a simple HTML structure with semantic tags and applying CSS styles to achieve specific layouts or visual effects. In video 11, there's a segment (around 45 seconds) where the speaker discusses semantic tags in HTML, which includes elements like header, nav, main, section, etc.
+
+Another important topic covered in Exercice 1 is the CSS box model, which explains how margins, padding, and borders interact with each other. This concept is discussed in video 18, starting at around 41 seconds (you can also find it in the text: "I am doing it in box1 only.").
+
+To learn more about Exercice 1 and its related concepts, I'd recommend watching videos 11 and 18 of your Sigma web development course. You can start with video 11, where you'll find information on semantic tags, and then move on to video 18 for a deeper dive into the CSS box model.
+
+If you have any further questions or need help understanding these concepts, feel free to ask!

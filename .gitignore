@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.joblib
+*.json
+*.mp3
+*.wav
+.env
+.vscode/

@@ -40,20 +40,20 @@ Long video courses make it hard to locate specific topics. This project enables 
 - Web UI
 - Multi-course support
 
+## Pipeline Overview
 Video Files
    ↓
-Speech-to-Text (OpenAI Whisper)
+Speech-to-Text (Whisper)
    ↓
 Subtitle Chunking
    ↓
-Embeddings Generation (bge-m3)
+Embeddings (bge-m3)
    ↓
 Vector Search (Cosine Similarity)
    ↓
 LLM Answer (Grounded RAG Response)
 
 ## Architecture / Flow
-
 ```mermaid
 graph TD
     A[Video Files] --> B[Speech-to-Text<br/>Whisper]

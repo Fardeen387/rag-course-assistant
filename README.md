@@ -41,6 +41,7 @@ Long video courses make it hard to locate specific topics. This project enables 
 - Multi-course support
 
 ## Pipeline Overview
+'''
 Video Files
    ↓
 Speech-to-Text (Whisper)
@@ -52,6 +53,7 @@ Embeddings (bge-m3)
 Vector Search (Cosine Similarity)
    ↓
 LLM Answer (Grounded RAG Response)
+'''
 
 ## Architecture / Flow
 ```mermaid
